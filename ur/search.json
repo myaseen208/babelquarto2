@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.ur.html",
+    "href": "index.ur.html",
+    "title": "بینظیر انکم سپورٹ پروگرام",
+    "section": "",
+    "text": "Preface\nاردو\nپاکستان کے بہت سے لوگ بہت غریب ہیں اور ایسے لوگوں کی مدد کے لیے 12000 روپے سہ ماہی کے وظیفے کے ساتھ بے نظیر انکم سپورٹ پروگرام شروع کیا گیا۔"
+  },
+  {
+    "objectID": "intro.ur.html",
+    "href": "intro.ur.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "summary.ur.html",
+    "href": "summary.ur.html",
+    "title": "2  Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever."
+  },
+  {
+    "objectID": "references.ur.html",
+    "href": "references.ur.html",
+    "title": "References",
+    "section": "",
+    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  }
+]
